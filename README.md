@@ -5,6 +5,8 @@ Los accidentes cardiovasculares son la principal causa de muerte en el mundo. Es
 ## Objetivo 
 Elaborar un algoritmo predictivo basado en un modelo de clasificación, el cual debe considerar las carácteristicas más adecuadas y estár optimizado para obtener el menor numero de falsos negativos posible. Lo anterior se complementará mediante una interfáz grafica que permita el input de datos y arroje una predicción.
 
+## Descripción del repositorio
+01_Exploracion.ipynb contiene la visualización y descripción de los datos antes del procesamiento.
 
 ## Acerca del Dataset
 Se trabajó con un dataset obtenido a través de kaggle el cual consiste en una recopilación de diferentes datasets disponibles de forma independiente. Las características que contiene el data set son:
@@ -25,6 +27,3 @@ Se trabajó con un dataset obtenido a través de kaggle el cual consiste en una 
 
 Referencia: fedesoriano. (September 2021). Heart Failure Prediction Dataset.
 Retrieved [25/09/21] from https://www.kaggle.com/fedesoriano/heart-failure-prediction.
-
-## Descripción del repositorio
-01_Exploracion.ipynb contiene la visualización y descripción de los datos antes del procesamiento.
