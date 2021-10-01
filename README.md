@@ -27,3 +27,4 @@ Referencia: fedesoriano. (September 2021). Heart Failure Prediction Dataset.
 Retrieved [25/09/21] from https://www.kaggle.com/fedesoriano/heart-failure-prediction.
 
 ## Descripción del repositorio
+01_Exploracion.ipynb contiene la visualización y descripción de los datos antes del procesamiento.
