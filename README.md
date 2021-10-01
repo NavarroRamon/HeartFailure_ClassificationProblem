@@ -3,10 +3,14 @@
 Los accidentes cardiovasculares son la principal causa de muerte en el mundo. Es importante entender que dados ciertos padecimientos o caracteristicas de cada individuo lo vuelven mas propenso a desarrollar un accidente cardiovascular, dado lo anterior una identificación temprana de un posible riesgo podría marcar una diferencia significatíva.
 
 ## Objetivo 
-Elaborar un algoritmo predictivo basado en un modelo de clasificación, el cual debe considerar las carácteristicas más adecuadas y estár optimizado para obtener el menor numero de falsos negativos posible. Lo anterior se complementará mediante una interfáz grafica que permita el input de datos y arroje una predicción.
+Elaborar un algoritmo predictivo basado en un modelo de clasificación, el cual debe considerar los factores de riesgo más adecuados y estár optimizado para obtener el menor numero de falsos negativos posible. Lo anterior se complementará mediante una interfáz grafica que permita el input de datos y arroje una predicción.
 
 ## Descripción del repositorio
-**01_Exploracion.ipynb** contiene la visualización y descripción de los datos antes del procesamiento.
+**01_Exploracion.ipynb** Contiene la visualización y descripción de los datos antes del procesamiento.
+
+**02_Preprocessing.ipynb** El procedimiento para filtrar los valores que no eran necesarios.
+
+**data/df_heartfailure.csv** Archivo de datos, con el dataset filtrado.
 
 ## Acerca del Dataset
 Se trabajó con un dataset obtenido a través de kaggle el cual consiste en una recopilación de diferentes datasets disponibles de forma independiente. Las características que contiene el data set son:
