@@ -11,6 +11,7 @@ Elaborar un algoritmo predictivo basado en un modelo de clasificación, el cual 
 |**01_Exploracion.ipynb**| Contiene la visualización y descripción de los datos antes del procesamiento.|
 |**02_Preprocessing.ipynb**| El procedimiento para filtrar los valores que no eran necesarios.|
 |**data/df_heartfailure.csv**| Archivo de datos, con el dataset filtrado.|
+|**03_HeartDisease_EDA.html** | Contiene un primer análisis exploratorio de los datos ya filtrados.|
 
 ## Acerca del Dataset
 Se trabajó con un dataset obtenido a través de kaggle el cual consiste en una recopilación de diferentes datasets disponibles de forma independiente. Las características que contiene el data set son:
