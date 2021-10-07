@@ -8,11 +8,11 @@ Elaborar un algoritmo predictivo basado en un modelo de clasificación, el cual 
 ## Descripción del repositorio
 | Archivo | Descripcion |
 | ------ | ----------- |
-|**01_Exploracion.ipynb**| Contiene la visualización y descripción de los datos antes del procesamiento.|
-|**02_Preprocessing.ipynb**| El procedimiento para filtrar los valores que no eran necesarios.|
-|**data/df_heartfailure.csv**| Archivo de datos, con el dataset filtrado.|
-|**03_HeartDisease_EDA.html** | Contiene un primer análisis exploratorio de los datos ya filtrados.|
-|**04_ModeloML.ipynb**| Modelo con validación, caracteristicas de mayor peso, matriz de confusión y reporte de clasificación.|
+|[**01_Exploracion.ipynb**](https://github.com/NavarroRamon/HeartFailure_ClassificationProblem/blob/main/01_Exploracion.ipynb)| Contiene la visualización y descripción de los datos antes del procesamiento.|
+|[**02_Preprocessing.ipynb**](https://github.com/NavarroRamon/HeartFailure_ClassificationProblem/blob/main/02_Preprocessing.ipynb)| El procedimiento para filtrar los valores que no eran necesarios.|
+|[**data/df_heartfailure.csv**](https://github.com/NavarroRamon/HeartFailure_ClassificationProblem/blob/main/data/df_heartfailure.csv)| Archivo de datos, con el dataset filtrado.|
+|[**03_HeartDisease_EDA.html**](https://github.com/NavarroRamon/HeartFailure_ClassificationProblem/blob/main/03_HeartDisease_EDA.html)| Contiene un primer análisis exploratorio de los datos ya filtrados.|
+|[**04_ModeloML.ipynb**](https://github.com/NavarroRamon/HeartFailure_ClassificationProblem/blob/main/04_ModeloML.ipynb)| Modelo con validación, caracteristicas de mayor peso, matriz de confusión y reporte de clasificación.|
 
 ## Acerca del Dataset
 Se trabajó con un dataset obtenido a través de kaggle el cual consiste en una recopilación de diferentes datasets disponibles de forma independiente. Las características que contiene el data set son:
