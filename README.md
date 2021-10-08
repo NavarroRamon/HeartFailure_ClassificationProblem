@@ -14,6 +14,23 @@ Elaborar un algoritmo predictivo basado en un modelo de clasificación, el cual 
 |[**03_HeartDisease_EDA.html**](https://github.com/NavarroRamon/HeartFailure_ClassificationProblem/blob/main/03_HeartDisease_EDA.html)| Contiene un primer análisis exploratorio de los datos ya filtrados.|
 |[**04_ModeloML.ipynb**](https://github.com/NavarroRamon/HeartFailure_ClassificationProblem/blob/main/04_ModeloML.ipynb)| Modelo con validación, caracteristicas de mayor peso, matriz de confusión y reporte de clasificación.|
 
+## Resultados
+
+El modelo implementado fue **Random Forest Classifier**, con el que se obtuvo un **92% de presición para detectar casos negativos** y **89% para casos positivos**. 
+<!Los parámetros del modelo se pueden ver en la siguiente tabla>
+
+
+A partir de la matríz de confusión se observa que la presición tiende a ser mejor cuando se habla de un caso negativo.
+<img src="https://cdn.discordapp.com/attachments/843776650495393855/895824902333018142/mc0.png"
+     width="400" 
+     height="350"
+     alt="Confussion matrix"
+     style="float: left; margin-right: 100px;" />
+
+Para el problema especifico que se está tratando se requiere refinar el modelo para obtener una mayor presición en casos positivos y reducir el numero de falsos negativos, aún si eso implica reducir la presición general del modelo.
+
+
+
 ## Acerca del Dataset
 Se trabajó con un dataset obtenido a través de kaggle el cual consiste en una recopilación de diferentes datasets disponibles de forma independiente. Las características que contiene el data set son:
 
